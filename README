@@ -1,0 +1,20 @@
+# 🖥️ System Monitor (macOS) — C++
+
+A lightweight native system monitoring tool for macOS written in C++ using low-level Mach APIs.
+
+This project demonstrates how to retrieve real-time system metrics without third-party libraries — focusing on performance, simplicity, and clean architecture.
+
+---
+
+## ✨ Features
+
+✅ Real-time CPU usage monitoring  
+✅ Memory usage tracking  
+✅ Native macOS APIs (Mach)  
+✅ Modular project structure  
+✅ Zero external dependencies  
+✅ Fast and lightweight  
+
+---
+
+## 📁 Project Structure
